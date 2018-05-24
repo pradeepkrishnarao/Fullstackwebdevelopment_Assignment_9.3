@@ -1,0 +1,10 @@
+assignment9.3.html:14 Combined even, odd and primes array into singleArray
+assignment9.3.html:15 Array(13)0: 21: 42: 63: 84: 15: 36: 57: 78: 29: 310: 511: 712: 11length: 13__proto__: Array(0)
+assignment9.3.html:18 primes array copied into copiedPrimes array
+assignment9.3.html:19 Array(5)0: 21: 32: 53: 74: 11length: 5__proto__: Array(0)
+assignment9.3.html:22 Objectcity: "New York"country: "United States"first: "James"last: "Bond"twitter: "@jamesbond"__proto__: Object
+assignment9.3.html:24 Destructered below Object into variables name same the property names
+assignment9.3.html:25 Objectcity: "New York"country: "United States"first: "James"last: "Bond"twitter: "@jamesbond"__proto__: Object
+assignment9.3.html:28 Destructured players array into variables name player1, player2, player3 and player4 respectively
+assignment9.3.html:29 Array(4)0: "paul"1: "andy"2: "darrell"3: "jim"length: 4__proto__: Array(0)
+assignment9.3.html:30 paul andy darrell jim
